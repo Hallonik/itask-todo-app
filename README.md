@@ -18,9 +18,12 @@
 
 ## 📸 Screenshots
 
-|        Desktop        |           Mobile         |
-| ![alt text](image-2.png)| ![alt text](image-1.png) |
-|                       |        |
+|        Desktop View     |        
+ ![alt text](image-2.png) 
+
+|        Mobile View      |
+![alt text](image-1.png)  
+
 
 ---
 
